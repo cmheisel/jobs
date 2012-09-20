@@ -24,7 +24,8 @@ We’ve got the mentality of an independent startup along with the backing of an
 * A good communicator, student and teacher
 * Someone who's contributed to an open source project (be it code, documentation, advocacy, etc.)
 
-** Our company culture
+**Our company culture:**
+
 * Work passionately and positively
 * Find a way to say yes.
 * Be a utility player.
@@ -36,10 +37,12 @@ We’ve got the mentality of an independent startup along with the backing of an
 * Move forward.
 * Serve our customers' needs.
 
-See more detail of our company culture here: http://URLTOCOME
+See more detail of our company culture here: http://cmgd-jobs.readthedocs.org/en/latest/ethos.html
 
-Interested?
+**Want to apply?**
 
-Send résumés to chris (dot) heisel (at) cmgdigital (dot) com -and- fork https://github.com/coxmediagroup/jobs to take our code challenges.
+1. Fork https://github.com/coxmediagroup/uidevtest and follow its instructions
+2. Fork https://github.com/coxmediagroup/Tic-Tac-Toe and follow its instructions
+3. Send your résumé and a link to your forks to chris (dot) heisel (at) cmgdigital (dot) com
 
 

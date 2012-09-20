@@ -6,12 +6,11 @@
 Cox Media Group Digital Jobs
 =============================
 
-In this repository you'll find descriptions for positions currently open at Cox Media Group Digital, the code challenges we ask prospective candidates to complete and instructions on how to submit your challenge and résumé to us.
+In this repository you'll find descriptions for positions currently open at Cox Media Group Digital, links to the code challenges we ask prospective candidates to complete and instructions on how to submit your challenge and résumé to us.
 
 .. toctree::
    :maxdepth: 2
 
    developer
    ethos
-
 
