@@ -37,7 +37,7 @@ We’ve got the mentality of an independent startup along with the backing of an
 * Move forward.
 * Serve our customers' needs.
 
-See more detail of our company culture here: http://cmgd-jobs.readthedocs.org/en/latest/ethos.html
+See more detail of our company culture here: :ref:`ethos`
 
 **Want to apply?**
 
