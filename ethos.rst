@@ -1,3 +1,5 @@
+.. _ethos:
+
 Our team's culture and ethos
 --------------------------------
 
@@ -34,7 +36,7 @@ We must be agile in our processes to meet the demands of our customers' ever-cha
 By keeping our products focused, we can decrease our time to market and increase our ability to adapt to change. We will continually iterate our products and processes with simple, fast improvements that provide value. Solve problems with the most straightforward answer and move on to the next task.
 
 Celebrate successes and learn from mistakes.
-===================================
+==============================================
 
 You have to step back and take time to smell the roses, give a pat on the back or raise a glass to achievement. Celebrating the successes is key to keeping a company motivated and moving forward. Acknowledging the work of teams and individuals help to shape the process and demonstrate to everyone that they contribute and it is appreciated.
 
