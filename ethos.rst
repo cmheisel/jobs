@@ -11,7 +11,7 @@ Passionate people are highly engaged in the task at hand. They care deeply about
 Find a way to say yes.
 ===================================
 
-At CMG Digital & Strategy, we&nbsp;look for solutions rather than problems. We work closely with our internal and external customers to&nbsp;understand what their question is, and find a way to address our customers' needs. Finding a way to say&nbsp;yes can mean digging deep and looking beyond the short-term issue, to the underlying problem. We encourage creative solutions that benefit our customers and our long-term vision.
+At CMG Digital & Strategy, we look for solutions rather than problems. We work closely with our internal and external customers to understand what their question is, and find a way to address our customers' needs. Finding a way to say yes can mean digging deep and looking beyond the short-term issue, to the underlying problem. We encourage creative solutions that benefit our customers and our long-term vision.
 
 Be a utility player.
 ===================================
@@ -52,7 +52,7 @@ By establishing mutually-agreed upon measures we provide much needed clarity and
 Move forward.
 ===================================
 
-In a dynamic organization like ours, with countless initiatives, viewpoints and stakeholders we will frequently encounter obstacles to progress or things that slow us down for any number of reasons.&nbsp; When faced with those obstacles we will not dwell on the obstacle, but we will move forward and beyond it.
+In a dynamic organization like ours, with countless initiatives, viewpoints and stakeholders we will frequently encounter obstacles to progress or things that slow us down for any number of reasons.  When faced with those obstacles we will not dwell on the obstacle, but we will move forward and beyond it.
 
 Instead of dwelling on the things that may impede our progress we will accept that nothing worth having comes easily and we will continue to move forward.
 
