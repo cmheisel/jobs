@@ -42,6 +42,4 @@ See more detail of our company culture here: :ref:`ethos`
 
 Want to apply?
 ==================
-1. Fork https://github.com/coxmediagroup/uidevtest and follow its instructions
-2. Fork https://github.com/coxmediagroup/Tic-Tac-Toe and follow its instructions
-3. Send your résumé and a link to your forks to chris (dot) heisel (at) coxinc (dot) com
+Send your résumé and to chris (dot) heisel (at) coxinc (dot) com
