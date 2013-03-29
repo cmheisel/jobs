@@ -17,10 +17,11 @@ Here are some of the things we're looking for:
 ==================================================
 
 * Someone who doesn't believe a feature is fully shipped until it's fast and reliable
-* A good communicator, student and teacher
+* A good communicator, teacher and student
 * Someone who's contributed to an open source project (be it code, documentation, advocacy, etc.)
 * A perfectionist who tempers it with deadlines (see use of Django)
 * Someone for whom REST means more than a hammock
+* A test driven developer
 * Someone who learns new programming languages (or text editors) for fun
 * Python experience
 * Passionate about web standards, usability, human-computer interaction, and information architecture
