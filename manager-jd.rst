@@ -1,5 +1,3 @@
-.. _manager-jd:
-
 Job description: Manager, Software Development
 =================================================
 

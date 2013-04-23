@@ -32,7 +32,7 @@ Here are some of the things we're looking for:
 * Three years or more of demonstrated ability to manage and develop high performing development teams
 * Experience with agile development projects, especially Lean/Kanban
 * Python experience (or Web development experience in another dynamic language)
-* Read the :ref:`full job description for more <manager-jd>`
+* Read the :doc:`full job description for more <manager-jd>`
 
 
 
