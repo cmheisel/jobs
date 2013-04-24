@@ -25,13 +25,13 @@ Here are some of the things we're looking for:
 ----------------------------------------------------------
 
 * You're committed to the craft of managing and leading people. From `Drucker <http://www.amazon.com/The-Effective-Executive-Peter-Drucker/dp/0887306128>`_ to `Deming <http://www.amazon.com/Out-Crisis-W-Edwards-Deming/dp/0262541157>`_ with `Rands <http://www.randsinrepose.com/archives/2011/10/11/the_rands_test.html>`_ in-between you continually study and hone your skills.
-* You're able to make the complex simple and have demonstrated an ability to understand and explain issues from both a technical and a business functional point of view
-* You're passionate about communication, group dynamics and coaching
-* You have an insatiable appetite for learning new things and improving existing ones, and cultivating that same appetite in your developers and teams
-* You're a perfectionist who tempers it with deadlines. Pragmatism is your middle name, you work at speed and inspire with your can-do attitude
-* Three years or more of demonstrated ability to manage and develop high performing development teams
-* Experience with agile development projects, especially Lean/Kanban
-* Python experience (or Web development experience in another dynamic language)
+* You're able to make the complex simple and have demonstrated an ability to understand and explain issues from both a technical and a business functional point of view.
+* You're passionate about communication, group dynamics and coaching.
+* You have an insatiable appetite for learning new things and improving existing ones. You cultivate that same appetite in your developers and teams.
+* You're a perfectionist who tempers it with deadlines. Pragmatism is your middle name, you work at speed and inspire with your can-do attitude.
+* You've got three years or more of demonstrated ability to manage and develop high performing teams.
+* You're experienced with agile development practices, especially Lean/Kanban.
+* You're got Python experience (or Web development experience in another dynamic language).
 * Read the :doc:`full job description for more <manager-jd>`
 
 

@@ -17,7 +17,7 @@ Leading a cross-functional delivery team
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 As a development manager, you'll be accountable for the success of one or more projects assigned to you. Each project will have a cross-team, cross-functional group of folks assigned to it. Your delivery team works closely with a project manager and customer to define the most valuable work and to break it apart into appropriately sized chunks to be delivered.
 
-Delivery teams can include 1 or more of your direct reports, depending on the project's needs and your developer's career paths.
+Delivery teams can include one or more of your direct reports, depending on the project's needs and your developer's career paths.
 
 You're accountable for the team's quality, timely delivery and the project's success. You're also the team's advocate within the company, getting them everything they need to be successful. You'll also be an inspiration for innovation to the customer and the team.
 
@@ -26,29 +26,29 @@ Skills and Qualifications
 ------------------------------
 * Words that best describe you: energetic, adaptable, a leader, trusting, results driven, inspirational, quality focused, strategic thinker, coach, customer focused, organized
 
-* You're committed to the craft of managing and leading people
+* You're committed to the craft of managing and leading people.
 
-* You're able to make the complex simple and have demonstrated an ability to understand and explain issues from both a technical and a business functional point of view
+* You're able to make the complex simple and have demonstrated an ability to understand and explain issues from both a technical and a business functional point of view.
 
-* You effortlessly switch between big picture thinking and nit-picking detail
+* You effortlessly switch between big picture thinking and nit-picking detail.
 
-* You solve problems with the right mix of creativity and deep analysis
+* You solve problems with the right mix of creativity and deep analysis.
 
-* You're passionate about communication, group dynamics and coaching
+* You're passionate about communication, group dynamics and coaching.
 
-* You have an insatiable appetite for learning new things and improving existing ones, and cultivating that same appetite in your developers and teams
+* You have an insatiable appetite for learning new things and improving existing ones. You cultivate that same appetite in your developers and teams.
 
-* You're a perfectionist who tempers it with deadlines. Pragmatism is your middle name, you work at speed and inspire with your can-do attitude
+* You're a perfectionist who tempers it with deadlines. Pragmatism is your middle name, you work at speed and inspire with your can-do attitude.
 
-* You pay attention to details and take great pride in your work
+* You pay attention to details and take great pride in your work.
 
-* You proactively identify project, people and organizational problems and provide well-thought-out solutions to them
+* You proactively identify project, people and organizational problems and provide well-thought-out solutions to them.
 
-* You're comfortable with setting your own direction and agenda to achieve broad goals assigned to you
+* You're comfortable with setting your own direction and agenda to achieve broad goals assigned to you.
 
-* You have an understanding and appreciation for the open source ecosystem and community
+* You have an understanding and appreciation for the open source ecosystem and community.
 
-* You're able to manage multiple priorities and deadlines in a dynamic, fast-paced environment
+* You're able to manage multiple priorities and deadlines in a dynamic, fast-paced environment.
 
 Experiences
 ---------------
