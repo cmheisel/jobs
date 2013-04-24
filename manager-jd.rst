@@ -38,11 +38,11 @@ Skills and Qualifications
 
 * You have an insatiable appetite for learning new things and improving existing ones, and cultivating that same appetite in your developers and teams
 
-* You're a perfectionist who tempers it with deadlines: Pragmatism is your middle name, you work at speed and inspire with your can-do attitude
+* You're a perfectionist who tempers it with deadlines. Pragmatism is your middle name, you work at speed and inspire with your can-do attitude
 
 * You pay attention to details and take great pride in your work
 
-* You proactively identify project, people and organizational problems and provides well-thought-out solutions to them
+* You proactively identify project, people and organizational problems and provide well-thought-out solutions to them
 
 * You're comfortable with setting your own direction and agenda to achieve broad goals assigned to you
 
