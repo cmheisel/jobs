@@ -13,5 +13,6 @@ In this repository you'll find descriptions for positions currently open at Cox 
 
     manager
     developer
+    engineer
     ethos
 
