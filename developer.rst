@@ -1,4 +1,4 @@
-Python Web Developer (Anywhere)
+Web Developer (Anywhere)
 --------------------------------------------
 
 Cox Media Group Digital is a Python and Javascript shop, and we've built one of the largest Python apps ever – scaled to serve web, mobile, API and more for 100+ prominent newspaper, TV and radio sites. You will design, code, modify, review, test, debug, document, and implement mission critical applications and features.
