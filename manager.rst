@@ -1,5 +1,5 @@
-Manager, Software Development
-===============================
+Manager, Software Development (Atlanta)
+=========================================
 
 .. toctree::
     :hidden:
