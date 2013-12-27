@@ -11,9 +11,6 @@ In this repository you'll find descriptions for positions currently open at Cox 
 .. toctree::
     :titlesonly:
 
-    automation-manager
-    automation-engineer
-    manager
     developer
     engineer
     ethos
