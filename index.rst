@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Cox Media Group Digital Jobs
+Cox Media Group Technology Jobs
 =============================
 
 In this repository you'll find descriptions for positions currently open at Cox Media Group Digital, links to the code challenges we ask prospective candidates to complete and instructions on how to submit your challenge and résumé to us.
@@ -13,5 +13,8 @@ In this repository you'll find descriptions for positions currently open at Cox 
 
     developer
     engineer
+    automation-engineer
+    qa
+    manager
     ethos
 
