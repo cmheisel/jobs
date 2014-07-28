@@ -21,7 +21,7 @@ We don’t let each other down, and we do that by making sure we do whatever it 
 Take ownership.
 ===================================
 
-At CMG Digital & Strategy, we take pride in the work that do for our customers. When something doesn't work right, we take it personally, and we take personal action to ensure that problems get fixed and errors get corrected. Where other companies might call something "good enough," we insist on pushing it all the way to awesome. We go the extra mile to produce products we can be proud of.
+At CMG Digital & Strategy, we take pride in the work that we do for our customers. When something doesn't work right, we take it personally, and we take personal action to ensure that problems get fixed and errors get corrected. Where other companies might call something "good enough," we insist on pushing it all the way to awesome. We go the extra mile to produce products we can be proud of.
 
 Seek ideas from all directions.
 ===================================
