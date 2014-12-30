@@ -46,4 +46,4 @@ See more detail of our company culture here: :ref:`ethos`
 Want to apply?
 ==================
 
-Interested? Send your resume to danny (dot) viti (at) coxinc (dot) com
+Interested? Send your resume to chris (dot) diganci (at) coxinc (dot) com
